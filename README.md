@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey there, I'm Srinjoy Roy!
 👨‍💻 Srinjoy Roy | AI Tinkerer • Bug Buster • Full-Stack Firefighter 🔥<br>🛠️ Founder @ PixAdora Media | 🧠 Sleeps with a Python pillow<br><br>📍 Currently rewriting reality with React and wrangling models that think they’re smarter than me (sometimes they are).<br>🤖 Built GitRAGBot so I don’t have to read my own code twice.<br>🕵️‍♂️ Catching deepfakes before they catch me.<br>🧹 Created an AI that tells your trash what kind of trash it is (respectfully).<br>📈 Finalist @ TRIKON Hackathon, where I debugged until I hallucinated APIs.<br><br>🎓 3rd Year @ SRM — proving caffeine is a valid substitute for sleep since 2022.<br>🔐 Software Developer by day, video editor by night, and full-time imposter syndrome survivor.<br><br>⚠️ Warning: May accidentally refactor your repo while “just browsing.”<br>🌟 Motto: If it compiles, ship it. If it doesn’t… blame it on the merge conflict.
 
 
