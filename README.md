@@ -1,4 +1,4 @@
-# 💫 About Me:
+👋 Hey there, I'm Srinjoy Roy!
 🔭 I’m currently working on<br>Folo AI – an AI-powered financial advisor that helps users make smarter money decisions. I'm also building a chatbot platform with flow builder, analytics, and live chat features using a microservices-based architecture.<br><br>👯 I’m looking to collaborate on<br>AI/ML research, fintech innovations, and scalable SaaS applications in cybersecurity or finance.<br><br>🤝 I’m looking for help with<br>Improving NLP capabilities in chatbots and enhancing security for financial applications.<br><br>🌱 I’m currently learning<br>Advanced ML algorithms, TDD for frontend/backend, secure API design<br><br>💬 Ask me about<br>Machine Learning, Cybersecurity, Microservices Architecture, Full-Stack Development, or how I balance video editing with engineering!<br><br>⚡ Fun fact<br>I started video editing during the lockdown and now lead creative direction for brands while building AI systems for real-world impact.
 
 
