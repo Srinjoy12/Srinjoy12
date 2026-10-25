@@ -1,8 +1,8 @@
-<img src="assets/hero.svg" alt="Srinjoy Roy, software engineer, with an animated globe of packets in flight" width="100%"/>
+<img src="/hero.svg" alt="Srinjoy Roy, software engineer, with an animated globe of packets in flight" width="100%"/>
 
-<img src="assets/marquee.svg" alt="React, .NET, Azure, PyTorch, TypeScript, FastAPI, Postgres, Wireshark, Burp Suite, Nessus, RAG, MCP, Supabase, Django, React Native" width="100%"/>
+<img src="/marquee.svg" alt="React, .NET, Azure, PyTorch, TypeScript, FastAPI, Postgres, Wireshark, Burp Suite, Nessus, RAG, MCP, Supabase, Django, React Native" width="100%"/>
 
-<img src="assets/h1.svg" alt="01 The file" width="100%"/>
+<img src="/h1.svg" alt="01 The file" width="100%"/>
 
 I'm Srinjoy. I write software for a living and train models for fun, a sentence I'm told to phrase differently in interviews.
 
@@ -12,11 +12,11 @@ Before that: a training platform for Indian government cybersecurity agencies, a
 
 I'm looking for a product company. Preferably one where the requirements arrive before the deadline.
 
-<img src="assets/timeline.svg" alt="Timeline: Knosfer, IIIT Nagpur, I4C, Deloitte USI intern, Deloitte USI" width="100%"/>
+<img src="/timeline.svg" alt="Timeline: Knosfer, IIIT Nagpur, I4C, Deloitte USI intern, Deloitte USI" width="100%"/>
 
-<img src="assets/h2.svg" alt="02 The evidence" width="100%"/>
+<img src="/h2.svg" alt="02 The evidence" width="100%"/>
 
-<img src="assets/repos.svg" alt="Five public repositories presented as case files" width="100%"/>
+<img src="/repos.svg" alt="Five public repositories presented as case files" width="100%"/>
 
 The exhibits, for anyone who wants to check my work:
 
@@ -28,21 +28,21 @@ The exhibits, for anyone who wants to check my work:
 
 The other 27 repositories are a hobby, not a personality.
 
-<img src="assets/h3.svg" alt="03 The lab" width="100%"/>
+<img src="/h3.svg" alt="03 The lab" width="100%"/>
 
-<img src="assets/lab.svg" alt="97.23% deepfake detection accuracy, 90.54% diabetes risk accuracy, 0.9571 AUC-ROC" width="100%"/>
+<img src="/lab.svg" alt="97.23% deepfake detection accuracy, 90.54% diabetes risk accuracy, 0.9571 AUC-ROC" width="100%"/>
 
 **Deepfake detection (IIIT Nagpur).** A Multi-Modal Temporal Transformer, 97.23% accurate across 25,000+ videos and images. I also made it 18% faster, because waiting is a bug.
 
 **Diabetes risk (Trajectory-Aware Transformer).** The data had no timeline, which is a problem when you're predicting something that happens over time. So I used K-Means to invent the timeline, added Time2Vec, and got 90.54% accuracy and 0.9571 AUC-ROC on 10,175 people. Sometimes the workaround is the paper.
 
-<img src="assets/h4.svg" alt="04 The field" width="100%"/>
+<img src="/h4.svg" alt="04 The field" width="100%"/>
 
-<img src="assets/ctf.svg" alt="Capture the flag platform for CBI, BSF and SSB, with falling hex" width="100%"/>
+<img src="/ctf.svg" alt="Capture the flag platform for CBI, BSF and SSB, with falling hex" width="100%"/>
 
 At I4C (Government of India) I built a Capture-the-Flag platform, then ran a live event on it for CBI, BSF and SSB officials. Being the person who builds the thing officials are trying to break is a specific kind of calm. Same internship: a forensic reporting system and an internal attendance manager, on React, Node.js and PostgreSQL.
 
-<img src="assets/h5.svg" alt="05 Side quests" width="100%"/>
+<img src="/h5.svg" alt="05 Side quests" width="100%"/>
 
 **Knosfer.** A subscription RAG chatbot platform: MCP for tooling, Supabase for vectors and realtime. Also an LMS (Django, FastAPI, React) and scrapers that retired a lot of copy-paste.
 
@@ -52,7 +52,7 @@ At I4C (Government of India) I built a Capture-the-Flag platform, then ran a liv
 
 **PixaDora Media.** A digital agency I founded: web, design, video. Where I learned that "make it pop" is not a requirement.
 
-<img src="assets/h6.svg" alt="06 Toolbox" width="100%"/>
+<img src="/h6.svg" alt="06 Toolbox" width="100%"/>
 
 | | |
 |---|---|
@@ -65,7 +65,7 @@ At I4C (Government of India) I built a Capture-the-Flag platform, then ran a liv
 
 Certified, in case paperwork helps: Microsoft Azure AI Apps and Agents Developer Associate (AI-103), Oracle Cloud Infrastructure AI Foundations, Oracle AI Vector Search Professional. B.Tech in Computer Science from SRM, CGPA 8.97.
 
-<img src="assets/footer.svg" alt="Say hello. A heartbeat line scrolls across the bottom." width="100%"/>
+<img src="/footer.svg" alt="Say hello. A heartbeat line scrolls across the bottom." width="100%"/>
 
 <div align="center">
 
