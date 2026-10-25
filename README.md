@@ -1,10 +1,10 @@
-<img src="assets/hero.svg" alt="Srinjoy Roy, software engineer" width="100%"/>
+<img src="/hero.svg" alt="Srinjoy Roy, software engineer" width="100%"/>
 
 I build production software for a living and ML models for the questions I can't leave alone. Right now that means financial audit tooling at Deloitte USI in React, Angular and .NET on Azure. Before that: a cybersecurity training platform for Indian government agencies, a deepfake detector, and a RAG chatbot product.
 
 I'm looking for a software engineering role at a product company.
 
-<img src="assets/timeline.svg" alt="Timeline: Knosfer, IIIT Nagpur, I4C, Deloitte USI" width="100%"/>
+<img src="/timeline.svg" alt="Timeline: Knosfer, IIIT Nagpur, I4C, Deloitte USI" width="100%"/>
 
 ## Things I've shipped
 
