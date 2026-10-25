@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" role="img" aria-label="Srinjoy Roy, software engineer. Animated globe with packets in flight.">
+<defs>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" opacity="0.06"/></pattern>
+<radialGradient id="gA" cx="0.8" cy="0.2" r="0.7"><stop offset="0" stop-color="#ffb02e" stop-opacity="0.16"/><stop offset="1" stop-color="#ffb02e" stop-opacity="0"/>
+<animate attributeName="r" values="0.55;0.8;0.55" dur="9s" repeatCount="indefinite"/></radialGradient>
+<radialGradient id="gT" cx="0.1" cy="0.95" r="0.6"><stop offset="0" stop-color="#4be3c6" stop-opacity="0.12"/><stop offset="1" stop-color="#4be3c6" stop-opacity="0"/></radialGradient>
+<radialGradient id="sph" cx="0.4" cy="0.35" r="0.75"><stop offset="0" stop-color="#4be3c6" stop-opacity="0.13"/><stop offset="1" stop-color="#4be3c6" stop-opacity="0.01"/></radialGradient>
+<linearGradient id="sh" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="-100" y2="0">
+<stop offset="0" stop-color="#ece8df"/><stop offset="0.42" stop-color="#ece8df"/><stop offset="0.5" stop-color="#ffb02e"/><stop offset="0.58" stop-color="#ece8df"/><stop offset="1" stop-color="#ece8df"/>
+<animate attributeName="x1" values="-400;-400;520;520" keyTimes="0;0.25;0.7;1" dur="8s" repeatCount="indefinite"/>
+<animate attributeName="x2" values="-100;-100;820;820" keyTimes="0;0.25;0.7;1" dur="8s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="rc"><rect width="900" height="430" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#rc)">
+<rect width="900" height="430" fill="#0a0b0f"/><rect width="900" height="430" fill="url(#dots)"/>
+<rect width="900" height="430" fill="url(#gA)"/><rect width="900" height="430" fill="url(#gT)"/>
+<circle cx="700" cy="215" r="140" fill="url(#sph)" stroke="#4be3c6" stroke-opacity="0.45"/>
+<g fill="none" stroke="#4be3c6" stroke-opacity="0.28" stroke-width="1">
+<ellipse cx="700" cy="93.8" rx="70.0" ry="14.0"/>
+<ellipse cx="700" cy="145.0" rx="121.2" ry="24.2"/>
+<ellipse cx="700" cy="215.0" rx="140.0" ry="28.0"/>
+<ellipse cx="700" cy="285.0" rx="121.2" ry="24.2"/>
+<ellipse cx="700" cy="336.2" rx="70.0" ry="14.0"/>
+<ellipse cx="700" cy="215" rx="140" ry="140"><animate attributeName="rx" values="140.0;129.3;99.0;53.6;0.0;53.6;99.0;129.3;140.0" dur="12s" begin="-0s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="700" cy="215" rx="140" ry="140"><animate attributeName="rx" values="140.0;129.3;99.0;53.6;0.0;53.6;99.0;129.3;140.0" dur="12s" begin="-2s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="700" cy="215" rx="140" ry="140"><animate attributeName="rx" values="140.0;129.3;99.0;53.6;0.0;53.6;99.0;129.3;140.0" dur="12s" begin="-4s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="700" cy="215" rx="140" ry="140"><animate attributeName="rx" values="140.0;129.3;99.0;53.6;0.0;53.6;99.0;129.3;140.0" dur="12s" begin="-6s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="700" cy="215" rx="140" ry="140"><animate attributeName="rx" values="140.0;129.3;99.0;53.6;0.0;53.6;99.0;129.3;140.0" dur="12s" begin="-8s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="700" cy="215" rx="140" ry="140"><animate attributeName="rx" values="140.0;129.3;99.0;53.6;0.0;53.6;99.0;129.3;140.0" dur="12s" begin="-10s" repeatCount="indefinite"/></ellipse>
+</g>
+<path id="a0" d="M600 170 Q690 30 800 190" fill="none" stroke="#4be3c6" stroke-opacity="0.7" stroke-width="1.3" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.6s" repeatCount="indefinite"/></path>
+<circle r="3.2" fill="#ffb02e"><animateMotion dur="3.2s" begin="-0.0s" repeatCount="indefinite"><mpath href="#a0"/></animateMotion></circle>
+<circle r="9" fill="#ffb02e" opacity="0.16"><animateMotion dur="3.2s" begin="-0.0s" repeatCount="indefinite"><mpath href="#a0"/></animateMotion></circle>
+<path id="a1" d="M630 300 Q770 390 820 250" fill="none" stroke="#4be3c6" stroke-opacity="0.7" stroke-width="1.3" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.9s" repeatCount="indefinite"/></path>
+<circle r="3.2" fill="#ffb02e"><animateMotion dur="3.9s" begin="-0.9s" repeatCount="indefinite"><mpath href="#a1"/></animateMotion></circle>
+<circle r="9" fill="#ffb02e" opacity="0.16"><animateMotion dur="3.9s" begin="-0.9s" repeatCount="indefinite"><mpath href="#a1"/></animateMotion></circle>
+<path id="a2" d="M590 240 Q650 110 740 108" fill="none" stroke="#4be3c6" stroke-opacity="0.7" stroke-width="1.3" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.2s" repeatCount="indefinite"/></path>
+<circle r="3.2" fill="#ffb02e"><animateMotion dur="4.6s" begin="-1.8s" repeatCount="indefinite"><mpath href="#a2"/></animateMotion></circle>
+<circle r="9" fill="#ffb02e" opacity="0.16"><animateMotion dur="4.6s" begin="-1.8s" repeatCount="indefinite"><mpath href="#a2"/></animateMotion></circle>
+<path id="a3" d="M660 330 Q715 195 790 300" fill="none" stroke="#4be3c6" stroke-opacity="0.7" stroke-width="1.3" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.5s" repeatCount="indefinite"/></path>
+<circle r="3.2" fill="#ffb02e"><animateMotion dur="5.3s" begin="-2.7s" repeatCount="indefinite"><mpath href="#a3"/></animateMotion></circle>
+<circle r="9" fill="#ffb02e" opacity="0.16"><animateMotion dur="5.3s" begin="-2.7s" repeatCount="indefinite"><mpath href="#a3"/></animateMotion></circle>
+<circle cx="600" cy="170" r="2.6" fill="#ece8df"/><circle cx="600" cy="170" r="3" fill="none" stroke="#ffb02e"><animate attributeName="r" values="3;16" dur="2.8s" begin="-0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.8s" begin="-0.00s" repeatCount="indefinite"/></circle>
+<circle cx="800" cy="190" r="2.6" fill="#ece8df"/><circle cx="800" cy="190" r="3" fill="none" stroke="#ffb02e"><animate attributeName="r" values="3;16" dur="2.8s" begin="-0.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.8s" begin="-0.35s" repeatCount="indefinite"/></circle>
+<circle cx="630" cy="300" r="2.6" fill="#ece8df"/><circle cx="630" cy="300" r="3" fill="none" stroke="#ffb02e"><animate attributeName="r" values="3;16" dur="2.8s" begin="-0.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.8s" begin="-0.70s" repeatCount="indefinite"/></circle>
+<circle cx="820" cy="250" r="2.6" fill="#ece8df"/><circle cx="820" cy="250" r="3" fill="none" stroke="#ffb02e"><animate attributeName="r" values="3;16" dur="2.8s" begin="-1.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.8s" begin="-1.05s" repeatCount="indefinite"/></circle>
+<circle cx="590" cy="240" r="2.6" fill="#ece8df"/><circle cx="590" cy="240" r="3" fill="none" stroke="#ffb02e"><animate attributeName="r" values="3;16" dur="2.8s" begin="-1.40s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.8s" begin="-1.40s" repeatCount="indefinite"/></circle>
+<circle cx="740" cy="108" r="2.6" fill="#ece8df"/><circle cx="740" cy="108" r="3" fill="none" stroke="#ffb02e"><animate attributeName="r" values="3;16" dur="2.8s" begin="-1.75s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.8s" begin="-1.75s" repeatCount="indefinite"/></circle>
+<circle cx="660" cy="330" r="2.6" fill="#ece8df"/><circle cx="660" cy="330" r="3" fill="none" stroke="#ffb02e"><animate attributeName="r" values="3;16" dur="2.8s" begin="-2.10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.8s" begin="-2.10s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="300" r="2.6" fill="#ece8df"/><circle cx="790" cy="300" r="3" fill="none" stroke="#ffb02e"><animate attributeName="r" values="3;16" dur="2.8s" begin="-2.45s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.8s" begin="-2.45s" repeatCount="indefinite"/></circle>
+<rect x="48" y="40" width="262" height="28" rx="14" fill="none" stroke="#4be3c6" stroke-opacity="0.45"/><circle cx="64" cy="54" r="4" fill="#4be3c6"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="78" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#4be3c6">AVAILABLE · PRODUCT TEAMS</text>
+<text x="44" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-style="italic" fill="url(#sh)">Srinjoy</text>
+<text x="44" y="256" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-style="italic" fill="url(#sh)">Roy</text>
+<text x="208" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#8a8a94">SOFTWARE ENGINEER</text>
+<line x1="208" y1="262" x2="344" y2="262" stroke="#ffb02e" stroke-width="1.5"/>
+<text x="48" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8a8a94">$ whoami --honest</text>
+<text x="48" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#ece8df" opacity="0">&gt; Taught a computer to take attendance. Face first.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0005;0.0150;0.1467;0.1617;1.0000" dur="24s" repeatCount="indefinite"/></text>
+<text x="48" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#ece8df" opacity="0">&gt; Built a map that shows where packets live.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1667;0.1817;0.3133;0.3283;1.0000" dur="24s" repeatCount="indefinite"/></text>
+<text x="48" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#ece8df" opacity="0">&gt; 97.23% at spotting fakes. Working on myself.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3333;0.3483;0.4800;0.4950;1.0000" dur="24s" repeatCount="indefinite"/></text>
+<text x="48" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#ece8df" opacity="0">&gt; Ran a hacking contest for people who catch hackers.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5000;0.5150;0.6467;0.6617;1.0000" dur="24s" repeatCount="indefinite"/></text>
+<text x="48" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#ece8df" opacity="0">&gt; Prioritized patches. Sleep did not make the list.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6667;0.6817;0.8133;0.8283;1.0000" dur="24s" repeatCount="indefinite"/></text>
+<text x="48" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5" fill="#ece8df" opacity="0">&gt; Makes audit software fast. Auditors remain calm.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8333;0.8483;0.9800;0.9950;1.0000" dur="24s" repeatCount="indefinite"/></text>
+<line x1="48" y1="382" x2="852" y2="382" stroke="#fff" stroke-opacity="0.1"/>
+<text x="48" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.2" fill="#8a8a94">32 REPOSITORIES  ·  4 INTERNSHIPS  ·  1 CTF  ·  0 REGRETS</text>
+</g></svg>
